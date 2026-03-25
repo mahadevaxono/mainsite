@@ -1,0 +1,12 @@
+{
+  "name": "axono-iot-website",
+  "pages_build_output_dir": "dist",
+  "compatibility_date": "2026-03-25",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "axonoiot_db",
+      "database_id": "PASTE_YOUR_DATABASE_ID_HERE"
+    }
+  ]
+}
